@@ -9,7 +9,7 @@ Za uporabo programa je potrebno uporabljati cli terminal, ali kakorkoli se mu ž
 da imamo vsi Ubuntu OS in zsh cli).
 
 1. Ko imate terminal v željenem direktoriju vpišite git clone https://github.com/Zvmcevap/SeminarskaJava.git
-2. **cd *ime-datoteke*** (premaknite se v na novo klonirano datoteko).
+2. **cd SeminarskaJava** (premaknite se v na novo klonirano datoteko).
 3. program zaženite z ukazom: **java -jar Turizem.java**
 
 **V primeru da vam programa ne zažene:**
@@ -28,7 +28,7 @@ da v terminal vpišete željeno črko/besedilo/številko in pritisnete tipko *En
 Vsa nadaljna pojasnila se bodo izpisala med samo uporabo programa.
 
 ## PS
-Če imate kakšne želje, prošnje ali samo mnenja kje bi bilo treba kaj izboljšati/popraviti/itd. mi lahko napišete do 10.10.2022 v komentar na GitHubu.
+Če imate kakšne želje, prošnje ali samo mnenja kje bi bilo treba kaj izboljšati/popraviti/itd. mi lahko napišete do 10.5.2022 v komentar na GitHubu.
 #### PSS
 Bilo mi je dano v vednost, da se šumniki (shumniki?) ne izpisujejo vsem ljudem na vseh sistemih. 
 Če bo veliko povpraševanje po neslovenski verziji (verziji brez shumnikov), se bom poskusil 
