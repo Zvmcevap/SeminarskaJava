@@ -28,7 +28,7 @@ da v terminal vpišete željeno črko/besedilo/številko in pritisnete tipko *En
 Vsa nadaljna pojasnila se bodo izpisala med samo uporabo programa.
 
 ## PS
-Če imate kakšne želje, prošnje ali samo mnenja kje bi bilo treba kaj izboljšati/popraviti/itd. mi lahko napišete do 10.5.2022 v komentar na GitHubu.
+Če ima kdo kakšne želje, prošnje ali samo mnenja kje bi bilo treba kaj izboljšati/popraviti/itd. mi lahko napišete do 10.5.2022 v komentar na GitHubu.
 #### PSS
 Bilo mi je dano v vednost, da se šumniki (shumniki?) ne izpisujejo vsem ljudem na vseh sistemih. 
 Če bo veliko povpraševanje po neslovenski verziji (verziji brez shumnikov), se bom poskusil 
