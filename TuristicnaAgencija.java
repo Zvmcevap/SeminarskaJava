@@ -425,6 +425,7 @@ class TuristicnaAgencija {
                                     niznapake = "Vsaj 1 termin mora vedno obstajati!";
                                 } else {
                                     pocitnice.izbrisiTermine(this);
+                                    posodobiPocitnice();
                                 }
                                 break;
                             case 'k':
