@@ -10,7 +10,7 @@ da imamo vsi Ubuntu OS in zsh cli).
 
 1. Ko imate terminal v željenem direktoriju vpišite git clone https://github.com/Zvmcevap/SeminarskaJava.git
 2. **cd SeminarskaJava** (premaknite se v na novo klonirano datoteko).
-3. program zaženite z ukazom: **java -jar Turizem.java**
+3. program zaženite z ukazom: **java -jar Turizem.jar**
 
 **V primeru da vam programa ne zažene:**
 1. Probajte narediti compile vseh *.java* datotek z ukazom: **javac @sources.txt**
