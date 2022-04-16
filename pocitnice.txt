@@ -1,0 +1,17 @@
+0,1,Slovenija,1250.0,20,true,false
+0,2,Hrvaška,750.0,50,true,true
+0,3,Madžarska,1250.0,500,false,false
+0,4,Belgija,15000.0,120,false,true
+1,5,ZDA,12.0,30,Medieval,true
+1,6,Slovenija,12.0,30,Sci-fi,false
+1,7,Indija,100.0,5000,Poverty,true
+1,8,Belgija,250.0,120,Fantasy,false
+2,9,Italija,4500.0,500,Aruba:Jamaica:Bermuda:Bahama,true
+2,10,Španija,2500.0,1500,Italija:Grčija:Turčija:Egipt:Tunizija:Španija,false
+2,11,Portugalska,2800.0,200,Anglija:Škotska:Irska:Islandija:Grenlandija:Kanada,true
+2,12,Madžarska,200.0,20,Madžarska:Madžarska:Madžarska,false
+3,13,Slovenija,300.0,24,1
+3,14,Italija,250.0,40,0
+3,15,Avstrija,400.0,30,2
+3,16,Madžarska,250.0,100,3
+1,17,Italija,112.0,10,Vatikan,true

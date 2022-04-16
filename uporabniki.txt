@@ -1,0 +1,3 @@
+Beno,Zupanc,Beno,Kajmak,false
+Admin,Admin,admin,admin,true
+B,B,B,B,true
