@@ -15,7 +15,7 @@ da imamo vsi Ubuntu OS in zsh cli).
 **V primeru da vam programa ne zažene:**
 1. Probajte narediti compile vseh *.java* datotek z ukazom: **javac @sources.txt**
 2. Nato narediti novo compile *.jar* datoteke z: **jar cmf manifest.txt Turizem.jar *class**
-3. In nato zagnati z **java -jar Turizem.java**
+3. In nato zagnati z **java -jar Turizem.jar**
 
 
 ## Uporaba
